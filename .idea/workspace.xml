@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f94f143a-89e6-49c7-98c5-727221868240" name="Changes" comment="End to End API Automation framework using RestAssured library">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Filters/LoggingFilters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ListenersPackage/TestListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/APIBase/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/APIBase/BaseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/APITests/LoginAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/APITests/LoginAPITest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="f94f143a-89e6-49c7-98c5-727221868240" name="Changes" comment="Added listeners and filters in the framework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1734271357057</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added listeners and filters in the framework">
+      <created>1734506712899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734506712899</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,7 +163,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="End to End API Automation framework using RestAssured library" />
-    <option name="LAST_COMMIT_MESSAGE" value="End to End API Automation framework using RestAssured library" />
+    <MESSAGE value="Added listeners and filters in the framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added listeners and filters in the framework" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DemoAPIAutomationFramework$D__Automation_DemoAPIAutomationFramework_smoke_xml.ic" NAME="$PROJECT_DIR$/smoke.xml Coverage Results" MODIFIED="1734496914553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
