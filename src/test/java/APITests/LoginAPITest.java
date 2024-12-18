@@ -5,7 +5,11 @@ import RequestModels.LoginRequest;
 import ResponseModels.LoginResponse;
 import io.restassured.response.Response;
 import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
+
+
+@Listeners(ListenersPackage.TestListener.class)
 
 public class LoginAPITest {
 
